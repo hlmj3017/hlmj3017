@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlmj3017)](https://github.com/hlmj3017/github-readme-stats)
 
+## Tech stack <br>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
@@ -12,17 +14,10 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 ​
 
+
 ### Hi there 👋
-
 ---
-**두껍게** <br>
-*기울임* <br>
-~~취소선~~ <br>
 
-* 1번
-* 2번
-- 1번
-- 2번
 
 [네이버](https://naver.com)
 
@@ -34,3 +29,5 @@ print("hello world")
 ```
 
 :smirk:
+:smiley:
+:books:
